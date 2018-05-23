@@ -10,6 +10,6 @@ Install using the Joomla Extensions Installer - https://docs.joomla.org/Installi
 After installation, assign the plugin to an Editor Profile in Editor Profiles -> Features & Layout -> Additional Features.
 
 ## Usage
-This plugin will convert bbcode syntax into HTML and vice versa, eg:
+This plugin will convert bbcode syntax into HTML and vice versa, when the content is saved or the editor is toggled, eg:
 
 ``<strong>Some Text</strong> to [b]Some Text[/b]``
